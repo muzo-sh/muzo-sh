@@ -7,3 +7,29 @@ location : "Wrocław, Poland 📍"
 education: "3rd Year Software Development Student"
 web      : "muzo.sh"
 vibe     : "Figuring out code, cars & cameras"
+```
+
+---
+
+### ⚡ What I Work With & Setup
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,windows,vercel" />
+</p>
+
+* **Daily Drivers:** VS Code, PyCharm, Git & GitHub
+* **Projects:** Building and maintaining my personal space at **[muzo.sh](https://muzo.sh)**
+
+---
+
+### 🌱 Currently Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,docker,azure,js,java,c,cpp,html" />
+</p>
+
+* **Python:** Building core programming logic and application fundamentals step by step.
+* **Cloud & Containers:** Getting hands-on with Docker & Azure through university coursework.
+
+---
+
+### 🔧 Offline Mode
+When I'm not staring at an IDE, I'm usually wrenching on my car, out shooting photography (`muzovisuals.muzo.sh`), or experimenting with new ideas.
