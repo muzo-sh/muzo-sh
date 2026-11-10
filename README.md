@@ -32,4 +32,4 @@ vibe     : "Figuring out code, cars & cameras"
 ---
 
 ### 🔧 Offline Mode
-When I'm not staring at an IDE, I'm usually wrenching on my car, out shooting photography (`muzovisuals.muzo.sh`), or experimenting with new ideas.
+When I'm not staring at an IDE, I'm usually wrenching on my car, out shooting photography (**[visuals.muzo.sh](https://visuals.muzo.sh)**, or experimenting with new ideas.
